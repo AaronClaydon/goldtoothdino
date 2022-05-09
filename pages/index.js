@@ -16,8 +16,6 @@ export default function Home() {
           Coming Soon
         </p>
       </main>
-
-//       <Footer />
     </div>
   )
 }
