@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Gold Tooth Dino</title>
+        <title>Goldtooth Dino</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
